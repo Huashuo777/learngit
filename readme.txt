@@ -7,3 +7,4 @@ try to modified
 
 Creating a new branch and note 
 Creating a new branch is quick AND simple
+Switched to a new branch 'dev'
