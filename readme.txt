@@ -5,4 +5,5 @@ Git tracks changes of files.
 
 try to modified
 
-Creating a new branch and note
+Creating a new branch--dev and note and delete
+Creating a new branch is quick AND simple
