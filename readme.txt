@@ -6,4 +6,4 @@ Git tracks changes of files.
 try to modified
 
 Creating a new branch and note 
-Creating a new branch is quick & simple
+Creating a new branch is quick AND simple
