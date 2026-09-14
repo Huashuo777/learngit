@@ -1,4 +1,4 @@
-我准备试rebase
-
+我准备试rebase（remote）
 local modified
+remote modified
 
