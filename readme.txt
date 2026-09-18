@@ -10,3 +10,10 @@ Creating a new branch is quick AND simple
 Switched to a new branch 'dev'
 
 Changes to main for bug fixing
+
+从官方教程学python
+从廖雪峰教程学git
+从廖雪峰教程学sql
+从菜鸟教程学sql
+从菜鸟教程学mysql
+从李勃教程学api 
